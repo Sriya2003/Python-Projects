@@ -1,0 +1,56 @@
+{
+    "24": {
+        "Monday": "Chest",
+        "Tuesday": "Back",
+        "Webnesday": "Biecp",
+        "Thrusday": "Triecp",
+        "Friday": "Shoulder",
+        "Saturday": "Legs",
+        "Sunday": "Rest"
+    },
+    "26": {
+        "Monday": "Chest",
+        "Tuesday": "Chest",
+        "Webnesday": "Biecp",
+        "Thrusday": "Biecp",
+        "Friday": "Tricep",
+        "Saturday": "Legs",
+        "Sunday": "Rest"
+    },
+    "27": {
+        "Monday": "Chest",
+        "Tuesday": "Back",
+        "Webnesday": "Biecp",
+        "Thrusday": "Biecp",
+        "Friday": "Tricep",
+        "Saturday": "Legs",
+        "Sunday": "Rest"
+    },
+    "28": {
+        "Monday": "Biecp",
+        "Tuesday": "Biecp",
+        "Webnesday": "Biecp",
+        "Thrusday": "Tricep",
+        "Friday": "Tricep",
+        "Saturday": "Legs",
+        "Sunday": "Rest"
+    },
+    "30": {
+        "Monday": "Rest",
+        "Tuesday": "Rest",
+        "Webnesday": "Legs",
+        "Thrusday": "Biecp",
+        "Friday": "Tricep",
+        "Saturday": "Rest",
+        "Sunday": "Closed"
+    },
+    "25": {
+        "Monday": "Chest",
+        "Tuesday": "Chest",
+        "Webnesday": "Leg",
+        "Thrusday": "Bicep",
+        "Friday": "Back",
+        "Saturday": "Tricep",
+        "Sunday": "Rest"
+    }
+}
